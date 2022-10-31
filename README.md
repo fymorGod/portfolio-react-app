@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Portfólio - Creating Portfólio with ReactJs and Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalhar com os React Hooks e a utilização
+de uma excelente ferramenta de estilização das folhas de estilo (CSS) - o Tailwind.
 
-## Available Scripts
+<p align="center">My Website Portfólio</p>
+<div align="start">
+<img src="https://user-images.githubusercontent.com/54417643/199097725-c81bd29a-1dfb-4248-a4f5-86b9e81476b7.png"
+</div>
 
-In the project directory, you can run:
+<!--ts-->
+* [Sobre](#Sobre)
+* [Tabela de Tecnologias](#tabela-de-tecnologia)
+* [instalacao](#Instalação)
+<!--te--> 
+<!-- ![back](https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png) -->
+# Sobre
+<p> Acredito que todo desenvolvedor precisa ter seu portfólio exposto ao mercado de trabalho, para que possa assim encontrar
+melhores oportunidades e provar suas habilidades, essas desenvolvidas ao longo de muita prática e dedicação.
 
-### `yarn start`
+Logo Abaixo haverá o menu para navegar neste README.md, onde você verá toda a organização do projeto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Meus agradecimentos, Luiz Fylip.
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# tabela-de-tecnologia
 
-### `yarn test`
+- [x] Javascript
+- [x] ReactJs
+- [X] Tailwind Css  
+- [X] React Hooks  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Instalação
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+#Clone este repositório
+$ git clone <https://github.com/fymorGod/portfolio-react-app>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#Acesse a pasta do projeto no terminal/cmd
+$cd [portfolio-react-app]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Após acessar a pasta do projeto, abra a mesma no terminal de sua preferência
+#Em seguida, digite o comando 
+$npm i
+#ou caso tenha o yarn instalado
+$yarn
